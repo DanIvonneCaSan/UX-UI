@@ -1,9 +1,9 @@
 # Retos UX
 
-#Descripción
-###***Laboratoria***
+### Descripción
+### ***Laboratoria***
 
-###Objetivo de Negocio: Atraer postulantes que se integren al programa
+### Objetivo de Negocio: Atraer postulantes que se integren al programa
 
 ### Elementos de UX
 
@@ -53,6 +53,7 @@ Los elementos en:
 - los de color rojo “CARE”, son los que se relacionan con los usuarios encargados de proveerles servicio o información.
 - y los de verde “THINK”, aquellos que añaden curiosidad o invitan a investigar al usuario.
 
+***
 ![primera_seccion](./images/primera_seccion.png)
 ![segunda_seccion](./images/segunda_seccion.png)
 ![tercera_seccion](./images/tercera_seccion.png)
@@ -69,9 +70,9 @@ Los elementos en:
 ![formulario_2](./images/formulario_2.png)
 ![postula_5](./images/postula_5.png)
 
-###***GitHub***
+### ***GitHub***
 
-##Elementos de navegación
+### Elementos de navegación
 
 1. Navegación global, es el menú principal ya que contiene todos los accesos hacia los elementos tanto principales como adicionales de la página.
 2. Contiene un campo de búsqueda.
@@ -87,14 +88,14 @@ Los elementos en:
 En las siguientes imágenes se muestran los elementos de navegación, en distintas páginas del sitio.
 
 ![primera_seccion](./images/pag_principal_gh.png)
-![pie_pagina](./images/ pag_principal_pie_gh.png)
-![features](./images/ features_gh.png)
-![business](./images/ business_gh.png)
-![business_1](./images/ business_1_gh.png)
-![explore](./images/ explore_gh.png)
-![explore_trending](./images/ explore_trending.png)
-![market](./images/ marketplace_gh.png)
-![market2](./images/ marketplace_2.png)
+![pie_pagina](./images/pag_princ_pie_gh.png)
+![features](./images/features_gh.png)
+![business](./images/business_gh.png)
+![business_1](./images/business_1_gh.png)
+![explore](./images/explore_gh.png)
+![explore_trending](./images/explore_trending.png)
+![market](./images/marketplace_gh.png)
+![market2](./images/marketplace_2.png)
 
 ###***Sketch***
 
@@ -103,5 +104,5 @@ En las siguientes imágenes se muestran los elementos de navegación, en distint
 El dashboar de acuerdo a los requerimientos de Laboratoria se muestra a continuación:
 
 ![primera](./images/dashboard.png)
-![enlace](./images/ dashboard_1.png)
+![enlace](./images/dashboard_1.png)
 ![opcion](./images/dashboard_2.png)
