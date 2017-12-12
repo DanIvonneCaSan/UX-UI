@@ -3,7 +3,7 @@
 ### Descripción
 ### ***Laboratoria***
 
-### Objetivo de Negocio: Atraer postulantes que se integren al programa
+***Objetivo de Negocio:*** Atraer postulantes que se integren al programa
 
 ### Elementos de UX
 
@@ -70,6 +70,7 @@ Los elementos en:
 ![formulario_2](./images/formulario_2.png)
 ![postula_5](./images/postula_5.png)
 
+***
 ### ***GitHub***
 
 ### Elementos de navegación
@@ -97,9 +98,10 @@ En las siguientes imágenes se muestran los elementos de navegación, en distint
 ![market](./images/marketplace_gh.png)
 ![market2](./images/marketplace_2.png)
 
-###***Sketch***
+***
+### ***Sketch***
 
-###Dashboard
+### Dashboard
 
 El dashboar de acuerdo a los requerimientos de Laboratoria se muestra a continuación:
 
