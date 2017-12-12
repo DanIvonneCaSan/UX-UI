@@ -3,7 +3,7 @@
 ### Descripción
 ### ***Laboratoria***
 
-***Objetivo de Negocio:*** Atraer postulantes que se integren al programa
+***Objetivo de Negocio:*** Atraer postulantes que se integren al programa, las empresas contraten a las egresadas y que se contraten los servicios de capacitación.
 
 ### Elementos de UX
 
