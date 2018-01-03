@@ -14,18 +14,24 @@
 5. Muestran historias de las egresadas así como de la fundadora.
 6. Contiene información sobre los medios de comunicación en los que ha aparecido.
 7. Brinda datos sobre el número de graduadas, las empresas empleadoras, el porcentaje de colocación laboral y miden el nivel de satisfacción de las empresas.
-8. Llama mucho la atención el hecho de que contenga una imagen de la fundadora en un congreso junto a personalidades tan importantes como Barack Obama y el fundador de Facebook, Mark Zuckerberg . Adicional a la frase de “Es importante mencionar que la tasa de éxito de Laboratoria y ha sido extraordinaria” dicha por el ex.- residente de EUA, Barack Obama.
+8. Llama mucho la atención el hecho de que contenga una imagen de la fundadora en un congreso junto a personalidades tan importantes como Barack Obama y el fundador de Facebook, Mark Zuckerberg . Adicional a la frase de “Es importante mencionar que la tasa de éxito de Laboratoria y ha sido extraordinaria” dicha por el ex.- presidente de EUA, Barack Obama.
 9. El incluir los logos de empresas mundialmente conocidas da seguridad, confianza y demuestra el nivel de éxito obtenido.
-Se denota que es un programa de mujeres para mujeres, ya que la mayoría de las imágenes las muestran además de que se encuentran estudiando, programando, riéndose, divirtiéndose y trabajando en equipo.
-10. Atrae a postularse por toda la información que contiene la página, desde las sentencias de “talento que transforma”, las explicaciones, los criterios de selección hasta los pasos para postularse.
-11. El formulario de postulación es un poco largo pero puntual en los datos o preguntas  que solicita.
-12. La navegación es sencilla, no se requiere de andar buscando entre los menús o las diversas páginas.
-13. La interacción es la adecuada, en la mayoría de los casos funcionan los botones.
-14. Es creíble, accesible y a pesar de que de primera vista no invita a postularse de manera inmediata, atrae nuevos miembros y clientes como las empresas.
+10.Se denota que es un programa de mujeres para mujeres, ya que la mayoría de las imágenes las muestran además de que se encuentran estudiando, programando, riéndose, divirtiéndose y trabajando en equipo.
+11. Atrae a postularse por toda la información que contiene la página, desde las sentencias de “talento que transforma”, las explicaciones, los criterios de selección hasta los pasos para postularse.
+12. El formulario de postulación es un poco largo pero puntual en los datos o preguntas que solicita.
+13. La navegación es sencilla, no se requiere de andar buscando entre los menús o las diversas páginas.
+14. La interacción es la adecuada, en la mayoría de los casos funcionan los botones aunque hay algunos que no funcionan.
+15. Es creíble, accesible y a pesar de que de primera vista no invita a postularse de manera inmediata, atrae nuevos miembros y clientes como las empresas.
+16. El diseño es uniforme, se pueden leer fácilmente los textos y no es engorroso a la vista.
+17. La paleta de colores es distingible, y es uniforme a lo largo de la página.
+18. Fácilita al usuario el dirigirse al llenado del formulario y a la información relevante.
+19. Es muy repetitivo hasta insistente en que postules y eso brinda cierto grado de desconfianza.
+20. La información es precisa en lo referente a involucrarse en el curso, las dudas que pueden surgir son mínimas y en el llenado de formulario no existen preguntas abiertas o que sean ambiguas.
+21. Los iconos de las redes sociales, no son tan primordiales para que aparezcan a lo largo de toda la página es como un adorno y no tienen utilidad para el usuario.
 
 ### Elementos de UI
 
-1. Contiene imágenes que  indican éxito, la culminación de un proceso (graduación), mujeres, felicidad, historias de éxito,  empresas relacionadas y que le apuestan al proyecto. Así como el impacto del proyecto y el grado del mismo.
+1. Contiene imágenes que indican éxito, la culminación de un proceso (graduación), mujeres, felicidad, historias de éxito,  empresas relacionadas y que le apuestan al proyecto. Así como el impacto del proyecto y el grado del mismo.
 2. Logos de las empresas con las que colaboran y de las organizaciones/empresas que les han otorgado reconocimientos.
 3. La tipografía es la misma para títulos, subtítulos (“Montserrat”) y para párrafos (“Museo-sans-1”).
 4. Los títulos y subtítulos están escritos en mayúsculas, los párrafos están en combinación, mayúsculas y minúsculas, como en las oraciones.
@@ -103,7 +109,7 @@ En las siguientes imágenes se muestran los elementos de navegación, en distint
 
 ### Dashboard
 
-El dashboar de acuerdo a los requerimientos de Laboratoria se muestra a continuación:
+El dashboard de acuerdo a los requerimientos de Laboratoria se muestra a continuación:
 
 ![primera](./images/dashboard.png)
 ![enlace](./images/dashboard_1.png)
